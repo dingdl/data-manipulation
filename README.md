@@ -1,4 +1,4 @@
-# pyspark-101
+# 101-series
 
 ## Environment Setup
 ```
